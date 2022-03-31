@@ -1,5 +1,0 @@
-﻿  bubble_sort.cpp
-C:\Users\Light Flight PC\source\repos\bubble_sort\bubble_sort\bubble_sort.cpp(73,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Light Flight PC\source\repos\bubble_sort\bubble_sort\bubble_sort.cpp(118,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\Light Flight PC\source\repos\bubble_sort\bubble_sort\bubble_sort.cpp(119,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  bubble_sort.vcxproj -> C:\Users\Light Flight PC\source\repos\bubble_sort\x64\Debug\bubble_sort.exe
